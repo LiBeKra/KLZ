@@ -10,7 +10,7 @@ Ein Schülerprojekt der KGS Sittensen oder Ostetalschule 8a32. Mit viel Zusammen
 
 ## Archiv
 
-- [2024-08-09](docs/Archiv/2024-08-09_Klassenskandal.pdf) Hausaufgabe in Deutsch, der Zündfunke für unsere Klassenzeitung
-- [2024-08-12](docs/Archiv/2024-08-12.pdf) Erste Ausgabe, erstellt eine Woche später
-- [2024-08-19](docs/Archiv/2024-08-19.pdf) Zweite Ausgabe
-- 2024-08-26 Dritte Ausgabe, letzte Augustwoche, jetzt mit neuem Logo
+- [2024-08-09](docs/Archiv/2024-08-09_Klassenskandal.pdf) Der Zündfunke für unsere Klassenzeitung war jene Hausaufgabe in Deutsch.
+- [2024-08-12](docs/Archiv/2024-08-12.pdf) Erste Ausgabe für die Woche vom 12. bis 16. August, veröffentlicht am 18. August
+- [2024-08-19](docs/Archiv/2024-08-19.pdf) Zweite Ausgabe 19. - 23. August mit Geschichten von Dr. Pepper und Dr. med Rasen
+- 2024-08-26 Dritte Ausgabe über die letzte Augustwoche, jetzt mit neuem Logo!
