@@ -3,8 +3,10 @@
 # KLZ - Klassenzeitung der Klasse 8a32
 
 ![GitHub License](https://img.shields.io/github/license/LiBeKra/KLZ)
+[![pages-build-deployment](https://github.com/LiBeKra/KLZ/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LiBeKra/KLZ/actions/workflows/pages/pages-build-deployment)
+[![GitHub release](https://img.shields.io/github/release/LiBeKra/KLZ.svg)](https://GitHub.com/LiBeKra/KLZ/releases/)
 
-Etwas Dokumenation und vielleicht online Zusammenarbeit. Mit Automation und vielleicht Python?
+Ein Schülerprojekt der KGS Sittensen oder Ostetalschule 8a32. Mit viel Zusammenarbeit!
 
 ## Archiv
 
