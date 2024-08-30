@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Use Arial font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    color: #333; /* Dark gray text color */
+    font-size: 3em;
+    text-align: center;
+}
