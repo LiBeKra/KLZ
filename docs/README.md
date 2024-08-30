@@ -1,3 +1,5 @@
+<img src="Bilder/logo.png" align="right" height="100">
+
 # KLZ - Klassenzeitung der Klasse 8a32
 
 Die Idee startete mit der Hausaufgabe in Deutsch zum 12. August 2024, einen Zeitungsartikel zu erstellen. Siehe [dieses Beispiel](2024-08-12_Klassenskandal.pdf). Von da an hat ein wechselndes und wachsendes Autorenteam am Wochenende einen Bericht der jeweils vergangenen Woche erstellt. Das Datum gibt den Montag der jeweiligen Woche an.
