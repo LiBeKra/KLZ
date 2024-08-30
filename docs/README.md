@@ -1,4 +1,4 @@
-<img src="KLZ Logos.pdf" align="right" height="100">
+<img src="Bilder/logo.png" align="right" height="100">
 
 # KLZ - Klassenzeitung der Klasse 8a32
 
