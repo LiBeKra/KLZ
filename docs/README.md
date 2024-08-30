@@ -1,4 +1,4 @@
-<img src="Neueste Fotos anzeigen.png" align="right" height="100">
+<img src="Bilder/Logos2.png" align="right" height="100">
 
 # KLZ - Klassenzeitung der Klasse 8a32
 
