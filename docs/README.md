@@ -4,7 +4,7 @@ Die Idee startete mit der Hausaufgabe in Deutsch zum 12. August 2024, einen Zeit
 
 ## Archiv
 
-- [2024-08-12](2024-08-12_Klassenskandal.pdf) Hausaufgabe in Deutsch, der Zündfunke für unsere Klassenzeitung
-- [2024-08-12](2024-08-12.pdf) Erste Ausgabe, erstellt eine Woche später
-- [2024-08-19](2024-08-19.pdf) Zweite Ausgabe
+- [2024-08-09](Archiv/2024-08-09_Klassenskandal.pdf) Hausaufgabe in Deutsch, der Zündfunke für unsere Klassenzeitung
+- [2024-08-12](Archiv/2024-08-12.pdf) Erste Ausgabe, erstellt eine Woche später
+- [2024-08-19](Archiv/2024-08-19.pdf) Zweite Ausgabe
 - 2024-08-26 Dritte Ausgabe, letzte Augustwoche, jetzt mit neuem Logo
