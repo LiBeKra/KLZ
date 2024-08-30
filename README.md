@@ -1,6 +1,8 @@
+<img src="https://libekra.github.io/KLZ/Bilder/logo.png" width="15%" align="right">
+
 # KLZ - Klassenzeitung der Klasse 8a32
 
-<img src="https://libekra.github.io/KLZ/Bilder/logo.png" width="15%" align="right">
+![GitHub License](https://img.shields.io/github/license/LiBeKra/KLZ)
 
 Etwas Dokumenation und vielleicht online Zusammenarbeit. Mit Automation und vielleicht Python?
 
