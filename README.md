@@ -14,3 +14,5 @@ Ein Schülerprojekt der KGS Sittensen oder Ostetalschule 8a32. Mit viel Zusammen
 - [2024-08-12](docs/Archiv/2024-08-12.pdf) Erste Ausgabe für die Woche vom 12. bis 16. August, veröffentlicht am 18. August
 - [2024-08-19](docs/Archiv/2024-08-19.pdf) Zweite Ausgabe 19. - 23. August mit Geschichten von Dr. Pepper und Dr. med Rasen
 - 2024-08-26 Dritte Ausgabe über die letzte Augustwoche, jetzt mit neuem Logo!
+
+![QR code](docs/Bilder/qr.png)
