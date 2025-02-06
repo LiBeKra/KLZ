@@ -20,4 +20,6 @@ Dieser Ordner enthält einige Bilder, die auf der Webseite oder zum Teil auch in
 
 ### PDF mit verschiedenen PDF Vorschlägen
 
-[PDF mit Vorschlägen](KLZ Logos.pdf)
+[PDF mit Vorschlägen](KLZ%20Logos.pdf)
+
+
