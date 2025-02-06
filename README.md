@@ -1,10 +1,10 @@
-<img src="https://libekra.github.io/KLZ/Bilder/logo.png" width="15%" align="right">
+<img src="https://kreier.github.io/KLZ/Bilder/logo.png" width="15%" align="right">
 
 # KLZ - Klassenzeitung der Klasse 8a32
 
-[![GitHub release](https://img.shields.io/github/release/LiBeKra/KLZ.svg)](https://GitHub.com/LiBeKra/KLZ/releases/)
+[![GitHub release](https://img.shields.io/github/release/kreier/KLZ.svg)](https://github.com/kreier/KLZ/releases/)
 ![GitHub License](https://img.shields.io/github/license/LiBeKra/KLZ)
-[![pages-build-deployment](https://github.com/LiBeKra/KLZ/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/LiBeKra/KLZ/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/kreier/KLZ/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kreier/KLZ/actions/workflows/pages/pages-build-deployment)
 
 
 Ein Schülerprojekt der KGS Sittensen oder Ostetalschule 8a32. Mit viel Zusammenarbeit!
